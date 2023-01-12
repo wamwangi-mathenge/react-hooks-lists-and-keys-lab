@@ -7,7 +7,7 @@ function ProjectList({ projects }) {
     <div id="projects">
       <h2>My Projects</h2>
       <div id="project-list">
-        <li></li>
+        <ProjectItem  />
         {/* render ProjectItem components here */}</div>
     </div>
   );
